@@ -5,5 +5,5 @@ This website was created with the following:
 *CSS for design
 *JavaScript for scripting and button actions
 *PHP for scripting and processing form submissions
-*XAMPP for localhost and database
+*XAMPP for the localhost server and database
 *SSL Certificate that is self-signed to the localhost website
